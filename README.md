@@ -2,7 +2,7 @@
 - 👀 I’m interested in HTML,CSS, & Javascript.
 - 🌱 I’m currently learning HTML,CSS & Javascript.
 - 💞️ I’m looking to collaborate on Front-End projects.
-- 📫 How to reach me ...send a message on GitHub.
+- 📫 How to reach me ....mussel.school.0g@icloud.com
 
 <!---
 Freddie2727/Freddie2727 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
